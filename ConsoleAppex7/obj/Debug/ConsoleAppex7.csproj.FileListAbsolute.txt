@@ -1,0 +1,8 @@
+C:\Exer 7\ConsoleAppex7\obj\Debug\ConsoleAppex7.csproj.AssemblyReference.cache
+C:\Exer 7\ConsoleAppex7\obj\Debug\ConsoleAppex7.csproj.SuggestedBindingRedirects.cache
+C:\Exer 7\ConsoleAppex7\obj\Debug\ConsoleAppex7.csproj.CoreCompileInputs.cache
+C:\Exer 7\ConsoleAppex7\bin\Debug\ConsoleAppex7.exe.config
+C:\Exer 7\ConsoleAppex7\bin\Debug\ConsoleAppex7.exe
+C:\Exer 7\ConsoleAppex7\bin\Debug\ConsoleAppex7.pdb
+C:\Exer 7\ConsoleAppex7\obj\Debug\ConsoleAppex7.exe
+C:\Exer 7\ConsoleAppex7\obj\Debug\ConsoleAppex7.pdb
